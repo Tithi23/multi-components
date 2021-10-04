@@ -2,7 +2,7 @@
   text-align: center;
 }
 
-.App-logo {
+/* .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
@@ -35,4 +35,16 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+.just-box{
+  border: 2px solid tomato;
+  margin: 10px;
+}
+.large-box{
+  border: 2px solid green;
+  margin: 20px;
+}
+.mini-box{
+  border: 2px solid goldenrod;
 }
